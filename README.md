@@ -1,1 +1,2 @@
-# horiseon1
+# Code Refactor Starter Code
+This is a website for an online marketing company,Horiseon, specializing in Search Engine Optimization, Online Reputation Management, and Social Media Marketing. When you first enter the site you see an image of a group of coworkers discussing a marketing strategy. It is then broken up into four sections:Search Engine Optimization, Online Reputation Management, and Social Media Marketing, and another section describing lead generation, brand awareness, and cost management. The branding is a light beige and sky blue. 
